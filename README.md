@@ -8,6 +8,8 @@ Project in progress, not much to see here yet.
 Installation
 ------------
 
+Make sure you have [NodeJS](http://nodejs.org/) installed on your target platform, and are comfortable with a Terminal prompt.
+
 Clone this repo and cd into the checkout
 
     git clone ...
